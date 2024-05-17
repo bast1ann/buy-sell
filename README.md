@@ -1,0 +1,1 @@
+In this personal project I'm going to create a page that accepts inputs related to purchases and sales, the item's name and the quantity. Then this information is stored and display on the webpage.
